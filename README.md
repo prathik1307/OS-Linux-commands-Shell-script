@@ -453,6 +453,7 @@ chmod 755 my-script.sh
 ```
 ## OUTPUT
 <img width="935" height="190" alt="image" src="https://github.com/user-attachments/assets/95d8e7d4-c96c-417e-afd8-0245ef697123" />
+
 ```
 
 prathiksha@DESKTOP-MOHHBTU:~/Experiment1/backupdir$ cat <<EOF > herecheck.txt
